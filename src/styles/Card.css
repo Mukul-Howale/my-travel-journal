@@ -1,0 +1,13 @@
+.card{
+    width: 100%;
+    height: 170px;
+    margin-bottom: 25px;
+    border-style: dashed;
+    display: flex;
+}
+
+.feature-img{
+    width: 125px;
+    height: 168px;
+    border-radius: 5px;
+}
